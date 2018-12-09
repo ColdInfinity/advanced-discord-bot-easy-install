@@ -1,7 +1,7 @@
 {
   "name": "DeltonModeration",
   "version": "1.0.0",
-  "description": "easy to use discord bot",
+  "description": "",
   "main": "index.js",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
@@ -22,7 +22,7 @@
     "type": "git",
     "url": "git+https://github.com/MrWall112/advanced-discord-bot-easy-install.git"
   },
-  "author": "ben wall",
+  "author": "CoIdInfinity",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MrWall112/advanced-discord-bot-easy-install/issues"
