@@ -111,5 +111,5 @@ bot.elevation = function (msg) {
 
 bot.on("ready", async () => {
   console.log(`${bot.user.username} is online!`);
-  bot.user.setActivity(`Moderating Delton!`);
-};
+  bot.user.setActivity(`Delton Moderation!`);
+});
