@@ -108,3 +108,8 @@ bot.elevation = function (msg) {
   if (msg.author.id === "103509994074312704") permlvl = 4;
   return permlvl;
 };
+
+bot.on("ready", async () => {
+  console.log(`${bot.user.username} is online!`);
+  bot.user.setActivity(`Moderating Delton!`);
+};
